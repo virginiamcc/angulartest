@@ -25,8 +25,8 @@ app.controller('MainController', ['$scope', function($scope) {
       price: 6.95
     },
     {
-      name: 'Pepperoni',
-      description: 'Pepperoni, marinara sauce, mozzarella, fresh oregano.',
+      name: 'Four Cheese',
+      description: 'All the cheese you need.',
       price: 7.95
     },
     {
